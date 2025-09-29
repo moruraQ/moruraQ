@@ -3,54 +3,77 @@
 
 
 
-<h3 align="center">
-  👋 안녕하세요! 성장을 즐기는 개발자 [이름]입니다.
-</h3>
+<p align="center">
+  <img src="[YOUR_HEADER_IMAGE_URL]" width="800" alt="header">
+</p>
+
+<h1 align="center">Hi there, I'm [이름] 👋</h1>
+<h3 align="center">A Passionate [분야, e.g., Backend] Developer from [국가/도시]</h3>
 
 <br>
 
-<p align="center">
-  ✨ 저는 [분야, e.g., 프론트엔드] 개발자로 일하고 있습니다.<br>
-  💡 [자신이 추구하는 가치, e.g., 더 나은 사용자 경험]에 관심이 많습니다.<br>
-  📚 동료들과 함께 배우고 성장하는 것을 좋아합니다.<br>
+<p align="left">
+- 🔭 I’m currently working on **[진행 중인 프로젝트 이름]**
+
+- 🌱 I’m currently learning **[학습 중인 기술]**
+
+- 👯 I’m looking to collaborate on **[협업하고 싶은 프로젝트 유형]**
+
+- 🤔 I’m looking for help with **[도움이 필요한 부분]**
+
+- 💬 Ask me about **[자신 있는 기술이나 분야]**
+
+- 📫 How to reach me: **[이메일 주소]**
+
+- 😄 Pronouns: **[He/Him, She/Her 등]**
+
+- ⚡ Fun fact: **[자신에 대한 재미있는 사실]**
 </p>
 
 <br>
 
-<div align="center">
-  <h3>🛠️ Tech Stack 🛠️</h3>
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  </p>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>📈 GitHub Stats 📈</h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=transparent" alt="[YOUR_USERNAME]'s GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=transparent" alt="Top Langs" />
-  </p>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>📞 Contact 📞</h3>
-  <p>
-    <a href="mailto:[YOUR_EMAIL@gmail.com]"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-    <a href="https://[YOUR_LINKEDIN].linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://[YOUR_BLOG].com"><img src="https://img.shields.io/badge/Blog-12B886?style=for-the-badge&logo=Vimeo&logoColor=white"></a>
-  </p>
-</div>
-
-<div align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F[YOUR_USERNAME]&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-</div>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[YOUR_USERNAME]&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="[YOUR_USERNAME]'s Top Languages" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&locale=en&theme=merko" alt="[YOUR_USERNAME]'s GitHub stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=dark" alt="[YOUR_USERNAME]'s GitHub Streak" />
+</p>
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[YOUR_LINKEDIN]" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/[YOUR_TWITTER]" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[YOUR_TWITTER]" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/[YOUR_INSTAGRAM]" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[YOUR_INSTAGRAM]" height="30" width="40" />
+  </a>
+</p>
