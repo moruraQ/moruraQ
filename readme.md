@@ -2,12 +2,12 @@
   <tr>
     <td valign="top">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=moruraQ&show_icons=true&theme=radical" alt="Anurag's GitHub stats" width="320"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=moruraQ&show_icons=true&theme=radical" alt="Anurag's GitHub stats" width="500"/>
       </a>
     </td>
     <td valign="top">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moruraQ&layout=compact&theme=vision-friendly-dark" alt="Top Langs" width="320"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moruraQ&layout=compact&theme=vision-friendly-dark" alt="Top Langs" width="500"/>
       </a>
     </td>
   </tr>
