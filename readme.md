@@ -5,10 +5,14 @@
   <table>
     <tr>
       <td align="center" width="450">
-        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moruraQ&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=moruraQ&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
+        </a>
       </td>
       <td align="center" width="300">
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moruraQ&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moruraQ&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
+        </a>
       </td>
       <td align="center" width="120">
         <a href="mailto:942park@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
