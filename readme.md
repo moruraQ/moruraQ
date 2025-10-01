@@ -9,4 +9,4 @@
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moruraQ&show_icons=true&theme=radical&title_color=00FFFF&text_color=FFFFFF&icon_color=FFFF00)](https://github.com/anuraghazra/github-readme-stats)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moruraQ&layout=compact&theme=vision-friendly-dark&title_color=00FFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moruraQ&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
