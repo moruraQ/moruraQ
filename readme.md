@@ -9,7 +9,7 @@
 
 ### Skills
 
-- Python, C, C++, JavaScript, Git,
+- Python, C++, JavaScript, Git,
 
 ---
 
