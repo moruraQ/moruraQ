@@ -12,4 +12,4 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=moruraQ&bg_color=141321&color=FFFFFF&line=00FFFF&point=00FFFF&border_color=FFFFFF#gh-dark-mode-only" alt="github activity graph"/>
 </a>
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=moruraQ&theme=nord&no_bg=true&cache_bust=1)](https://github.com/ryo-ma/github-profile-trophy)   
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=moruraQ&theme=algolia&no_bg=true&cache_bust=1)](https://github.com/ryo-ma/github-profile-trophy)   
